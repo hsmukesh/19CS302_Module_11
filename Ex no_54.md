@@ -19,8 +19,8 @@ To write a C program to reverse a string.
 ```
 /*
 C program to reverse a string.
-Developed by: Sowjanya A
-RegisterNumber:  212222060250
+Developed by: Mukesh HS
+RegisterNumber:  212222060155
 */
 #include <stdio.h>
 
