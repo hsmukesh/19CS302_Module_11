@@ -4,7 +4,7 @@ SAMPLE OUTPUT : CAPS and add space to each alphabet
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 # EX 54 C program to reverse a string.
-## DATE: 11/05/2025
+## DATE: 15/05/2025
 ## AIM:
 To write a C program to reverse a string.
 
